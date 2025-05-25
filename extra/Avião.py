@@ -185,6 +185,5 @@ def menu():
         except Exception as erro:
             print("Erro inesperado:", erro)
 
-# Início do programa
 menu()
 
